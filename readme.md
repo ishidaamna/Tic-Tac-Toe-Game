@@ -7,7 +7,7 @@ This is a fun Tic-Tac-Toe game!
 
 Check out the live demo: [Click here](https://680491eaf0bd8287f98af950--stalwart-gingersnap-162fbe.netlify.app/)
 
-
+![](preview.gif)
 
 ## Setup
 ```
